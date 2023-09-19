@@ -1,0 +1,44 @@
+body {
+    margin: 20px 200px;
+    /* equivalent to above
+      margin-bottom: 0px;
+      margin-left: 0px;
+      margin-right: 0px;
+      margin-top: 0px;
+      */
+      color: #1A120B;
+  }
+
+p {
+    text-align: justify;
+}
+
+/*headers*/
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+
+/*images*/
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+/*audio*/
+audio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
