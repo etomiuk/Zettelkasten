@@ -11,20 +11,34 @@ body {
 
 p {
     text-align: justify;
+    font-family: "Bitter", serif;
+}
+
+a{
+    text-align: justify;
+    font-family: "Bitter", serif;
+}
+
+li{
+    font-family: "Bitter", serif;
 }
 
 /*headers*/
 h1 {
     text-align: center;
+    font-family: "Rock Salt", serif;
 }
 h2 {
     text-align: center;
+    font-family: "Rock Salt", serif;
 }
 h3 {
     text-align: center;
+    font-family: "Rock Salt", serif;
 }
 h4 {
     text-align: center;
+    font-family: "Bitter", serif;
 }
 
 /*images*/
