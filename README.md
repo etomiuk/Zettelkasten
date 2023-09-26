@@ -1,4 +1,6 @@
 # Modification history
+## September 25
+- Added page about Cognitivism talking about attention and memory
 ## September 21
 - Fixed typos
 - Elaborated on some examples
