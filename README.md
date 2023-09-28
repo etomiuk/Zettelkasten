@@ -1,4 +1,7 @@
 # Modification history
+## September 28
+- Elaborated on attention and memory
+- Added references
 ## September 25
 - Added page about Cognitivism talking about attention and memory
 ## September 21
