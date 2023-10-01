@@ -1,7 +1,13 @@
 # Modification history
 ## Week 3
 ### October 1
-- 
+- Changed color scheme
+- Reorganized topics
+  - Deleted Cognitivsm page
+  - Added page on Attention
+  - Added page on Memory
+- Moved social learning on home page to its own page
+- Added connections to Social Cognitive Theory reading on social learning page
 ## Week 2
 ### September 28
 - Elaborated on attention and memory
