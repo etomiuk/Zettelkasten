@@ -7,6 +7,7 @@ body {
       margin-top: 0px;
       */
       color: #1A120B;
+      background-color: #D3DEDC;
   }
 
 p {
@@ -27,14 +28,18 @@ li{
 h1 {
     text-align: center;
     font-family: "Rock Salt", serif;
+    color: #7C99AC;
+
 }
 h2 {
     text-align: center;
     font-family: "Rock Salt", serif;
+    color: #7C99AC;
 }
 h3 {
     text-align: center;
     font-family: "Rock Salt", serif;
+    color: #92A9BD;
 }
 h4 {
     text-align: center;
@@ -56,3 +61,5 @@ audio{
     margin-right: auto;
     
 }
+
+/*palette: https://colorhunt.co/palette/d3dedc92a9bd7c99acffefef */
