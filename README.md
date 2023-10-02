@@ -8,6 +8,9 @@
   - Added page on Memory
 - Moved social learning on home page to its own page
 - Added connections to Social Cognitive Theory reading on social learning page
+- Added page on knowledge
+  - Implicit knowledge
+  - Expertise
 ## Week 2
 ### September 28
 - Elaborated on attention and memory
