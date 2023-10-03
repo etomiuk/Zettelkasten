@@ -4,8 +4,8 @@
 - Reworked the organization of the pages
   - Moved learning theories to its own page (maybe I'll put it on the home page...)
   - Made conditioning to its own page, which is linked in learning theories
+- Made a strategies page (not finished though)
 - Note: for the final submission, I want to make a sort of dropdown menu for the larger topics and its subtopics so I don't have a bunch of links at the top of the page
-- Note: maybe make a strategies page, with lists (for memory, for deep encoding?) then link that to their topics.
 ### October 1
 - Changed color scheme
 - Reorganized topics
