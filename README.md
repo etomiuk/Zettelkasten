@@ -1,4 +1,7 @@
 # Modification history
+## Week 4
+### October 10
+- Added dropdown menu and reorganized topics into smaller subtopics
 ## Week 3
 ### October 3
 - Reworked the organization of the pages
