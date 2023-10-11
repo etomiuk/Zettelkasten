@@ -2,10 +2,15 @@
 ## Week 4
 #### October 11
 - Merged modelling page with some previous parts from social learning page + added more about modelling
-- Added social cognitivism to cognitivism page + connections (but might move that to separate page eventually)
+- Added more about self-efficacy
+- Added social cognitivism to cognitivism page + connections
+- Moved some intro paragraphs to pages that connected better with them (like social cognitivism and implicit knowledge)
+- Added connections to learning theories in intro.
+- Added theory criticisms to connect to other topics
+- Fixed broken links (still work left on that)
 ### October 10
 - Added dropdown menu and reorganized topics into smaller subtopics
-  - learning theories: behaviourism, cognitivism (including social cognitivism), constructivism
+  - learning theories: behaviourism, cognitivism, social cognitivism, constructivism
   - conditioning: classical, operant (I'd include this nested under behaviourism)
   - attention
   - memory: working, long term
