@@ -1,5 +1,8 @@
 # Modification history
 ## Week 4
+#### October 11
+- Merged modelling page with some previous parts from social learning page + added more about modelling
+- Added social cognitivism to cognitivism page + connections (but might move that to separate page eventually)
 ### October 10
 - Added dropdown menu and reorganized topics into smaller subtopics
   - learning theories: behaviourism, cognitivism (including social cognitivism), constructivism
