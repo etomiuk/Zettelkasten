@@ -2,6 +2,14 @@
 ## Week 4
 ### October 10
 - Added dropdown menu and reorganized topics into smaller subtopics
+  - learning theories: behaviourism, cognitivism (including social cognitivism), constructivism
+  - conditioning: classical, operant (I'd include this nested under behaviourism)
+  - attention
+  - memory: working, long term
+  - knowledge: implicit, expertise
+  - social learning:
+  - strategies: encoding, processing
+- Note: I'd like to have a "nested" dropdown menu to show a hierarchy of topics, but right now I don't have the technical skills to do that... I hope that is ok for this week
 ## Week 3
 ### October 3
 - Reworked the organization of the pages
