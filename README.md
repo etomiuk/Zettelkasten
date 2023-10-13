@@ -1,6 +1,11 @@
 # Modification history
 ## Week 4
-#### October 11
+### October 13
+- Created new navbar with reorganized topics (less focus on course order, more focus on organization based on my topic)
+- This is what I am aiming for in my new organization:
+![image](https://github.com/etomiuk/Zettlekasten/assets/74218835/05a14ef6-6279-400d-84f6-632b7fbee2bf)
+
+### October 11
 - Merged modelling page with some previous parts from social learning page + added more about modelling
 - Added more about self-efficacy
 - Added social cognitivism to cognitivism page + connections
