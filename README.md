@@ -1,4 +1,10 @@
 # Modification history
+## Week 5
+### October 19
+- First, I am well aware that my work this week is not as good as what I have been submitting so far. I know that isolating motivation topics in its own section is not what I want, but I've been having some trouble finding the right spots to insert it in to make it connect with other topics. I have been incredibly overwhelmed this week and I tried really hard to not spend too much time working on this by taking our advice to write down more rough ideas and making notes to add things for later, but I still find myself working on this for over 2h...
+- Added motivation tab
+- Officially reorganized the topics into broader, more composition related topics rather than following class order.
+
 ## Week 4
 ### October 13
 - Created new navbar with reorganized topics (less focus on course order, more focus on organization based on my topic)
