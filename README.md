@@ -12,6 +12,7 @@
     - Now you can click on a major topic and see a sort of intro text instead of only being able to access the subtopics
 - Added humanism in theories
 - Added broad blurb on experience
+- I wanted to add metacognition but ran out of time
   
 
 ## Week 4
