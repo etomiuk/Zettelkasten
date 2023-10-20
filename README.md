@@ -3,7 +3,7 @@
 ### October 19
 - I am aware that this week's entries might not be as good quality as previous weeks. After talking to you after class this week, I realized that what is taking up a lot of my time is forming the connections between topics. I find it easy to connect things to composition, but making the connections to previous weeks' content is hard (and I guess this ties into deciding where to move content around in the website). Any suggestions would be helpful :)
 - Added motivation tab and the things that impact motivation (but I don't really like that it is isolated from the other topics...)
-      - choice, interest, self-efficacy, goals
+    - Choice, interest, self-efficacy, goals
 - Officially reorganized the topics into broader, more composition related topics rather than following class order.
     - Renamed subtopics to relate them to composition
     - Fixed some links (the hyperlinks that link the topics are still a work in progress)
