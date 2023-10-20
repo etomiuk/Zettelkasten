@@ -1,12 +1,12 @@
 # Modification history
 ## Week 5
 ### October 19
-- First, I am well aware that my work this week is not as good as what I have been submitting so far. I know that isolating motivation topics in its own section is not what I want, but I've been having some trouble finding the right spots to insert it in to make it connect with other topics. I have been incredibly overwhelmed this week and I tried really hard to not spend too much time working on this by taking your advice to write down more rough ideas and making notes to add things for later, but I still find myself working on this for over 2h...
-- Added motivation tab and the things that impact motivation
-      - choice, interest, self-efficacy
+- I am aware that this week's entries might not be as good quality as previous weeks. After talking to you after class this week, I realized that what is taking up a lot of my time is forming the connections between topics. I find it easy to connect things to composition, but making the connections to previous weeks' content is hard (and I guess this ties into deciding where to move content around in the website). Any suggestions would be helpful :)
+- Added motivation tab and the things that impact motivation (but I don't really like that it is isolated from the other topics...)
+      - choice, interest, self-efficacy, goals
 - Officially reorganized the topics into broader, more composition related topics rather than following class order.
+    - Renamed subtopics to relate them to composition
 - Added humanism in theories
-- I want to add goals, what are some goals composers may have and whether they would be mastery goals.
 
 ## Week 4
 ### October 13
