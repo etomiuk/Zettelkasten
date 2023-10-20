@@ -6,7 +6,11 @@
       - choice, interest, self-efficacy, goals
 - Officially reorganized the topics into broader, more composition related topics rather than following class order.
     - Renamed subtopics to relate them to composition
+    - Fixed some links (the hyperlinks that link the topics are still a work in progress)
+    - Now you can click on a major topic and see a sort of intro text instead of only being able to access the subtopics
 - Added humanism in theories
+- Added broad blurb on experience
+  
 
 ## Week 4
 ### October 13
