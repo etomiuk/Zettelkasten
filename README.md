@@ -8,6 +8,7 @@
     - Renamed subtopics to relate them to composition
     - Fixed some links (the hyperlinks that link the topics are still a work in progress)
           - Don't click on the *some motivation topic* link under the experiences tab, nothing is there yet
+          - Also the misc topics links don't work yet... I'm so sorry
     - Now you can click on a major topic and see a sort of intro text instead of only being able to access the subtopics
 - Added humanism in theories
 - Added broad blurb on experience
