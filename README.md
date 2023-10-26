@@ -3,9 +3,9 @@
 #### October 25
 - The navbar got messed up: when you click on a new topic, you see the old navbar, so to go back to the correct one, you can click on the EDPE: Zettlekasten title at the top of the page. The correct one is the one on the "what is learning" page
 - Renamed the motivation topics to "Why compose" with subtopics relating to why someone might want to compose a piece based on their interests, confidence, personal identity as a composer, etc.
-- Added section on composition relating to one's identity under "why compose"
+- Added section on identity ("why compose" --> "Composition as part of identity")
 - Added cultural influences in modelling (under experiences --> social)
-- Added the importance of supportive learning environment in self-efficacy section (natural talent)
+- Added supportive learning environment in self-efficacy section (natural talent)
 - Made the connections with cognitive load (self-efficacy and
 
   
