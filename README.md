@@ -1,7 +1,8 @@
 # Modification history
 ## Week 7
 ### October 31
-- 
+- Added creativity bit in "Why we compose" to connect it to intrinsic motivation
+- Added page about music and mental health (connected to transfer)
 ### October 30
 - Added creativity (spread out across the experience page, the social page, and composition strategies page)
   
