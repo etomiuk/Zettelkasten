@@ -1,6 +1,13 @@
 # Modification history
+## Week 7
+### October 31
+- Added creativity bit in "Why we compose" to connect it to intrinsic motivation
+- Added page about music and mental health (connected to transfer)
+### October 30
+- Added creativity (spread out across the experience page, the social page, and composition strategies page)
+  
 ## Week 6
-#### October 25
+### October 25
 - The navbar got messed up: when you click on a new topic, you see the old navbar, so to go back to the correct one, you can click on the EDPE: Zettlekasten title at the top of the page. The correct one is the one on the "what is learning" page
 - Renamed the motivation topics to "Why compose" with subtopics relating to why someone might want to compose a piece based on their interests, confidence, personal identity as a composer, etc.
 - Added section on identity ("why compose" --> "Composition as part of identity")
