@@ -1,5 +1,10 @@
 # Modification history
 ## Week 7
+### November 1
+- Created a challeges section
+    - Moved talent section here and added paragraph about growth vs fixed mindset
+    - ZPD should belong here too
+- 
 ### October 31
 - Added creativity bit in "Why we compose" to connect it to intrinsic motivation
 - Added page about music and mental health (connected to transfer)
