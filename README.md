@@ -2,6 +2,7 @@
 ## Week 7
 ### November 1
 - NOTE: I colored this week's changes in red because now that I am integrating content within previous content, hopefully it will make it easier to spot what I have added.
+- Also as a reminder, you can directly click on the broader topic for a sort of intro on the topic (I'm saying this because most of my creativity stuff is mostly under the Composition Strategies general page)
 - Created a challenges section
     - Moved talent section here and added paragraph about growth vs fixed mindset
     - Made page for ZPD (will expand)
