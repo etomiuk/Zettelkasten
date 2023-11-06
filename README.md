@@ -14,9 +14,12 @@
     
 ## Week 7
 ### November 1
-- Created a challeges section
+- NOTE: I colored this week's changes in red because now that I am integrating content within previous content, hopefully it will make it easier to spot what I have added.
+- Also as a reminder, you can directly click on the broader topic for a sort of intro on the topic (I'm saying this because most of my creativity stuff is mostly under the Composition Strategies general page)
+- Created a challenges section
     - Moved talent section here and added paragraph about growth vs fixed mindset
-    - ZPD should belong here too
+    - Made page for ZPD (will expand)
+- Fixed broken navbar links (they should all work now!)
 ### October 31
 - Added creativity bit in "Why we compose" to connect it to intrinsic motivation
 - Added page about music and mental health (connected to transfer)
@@ -32,7 +35,6 @@
 - Added supportive learning environment in self-efficacy section (natural talent)
 - Made the connections with cognitive load (self-efficacy and
 
-  
 ## Week 5
 ### October 19
 - I am aware that this week's entries might not be as good quality as previous weeks. After talking to you after class this week, I realized that what is taking up a lot of my time is forming the connections between topics. I find it easy to connect things to composition, but making the connections to previous weeks' content is hard (and I guess this ties into deciding where to move content around in the website). Any suggestions would be helpful :)
