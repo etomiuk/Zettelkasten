@@ -4,3 +4,4 @@ Stylistic things
 - use margins based on percentage and not pixels (and maake margin for text not the same as navbar)
 - make sheet music appear more natural with the background
 - change color when hovering over hyperlinks
+- horizontal list for list like items intead of being all veritcal --> put in a table?

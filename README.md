@@ -1,10 +1,22 @@
 # Modification history
+
+## Week 8
+### November 3
+- Added criticism section under challenges
+    - Moved paragraph on social+self-efficacy there
+- Added writer's block section (might be moved back to creativity though)
+- Reviewed page on talent, fixed typos/structure
+    - Expanded on Dunning-Kruger effect
+- Expanded on motivation links to other learning theories
+- Created entire section on social aspects of composition
+    - Moved modelling and expertise on separate pages
+    - Created apprenticeship page
+    
 ## Week 7
 ### November 1
 - Created a challeges section
     - Moved talent section here and added paragraph about growth vs fixed mindset
     - ZPD should belong here too
-- 
 ### October 31
 - Added creativity bit in "Why we compose" to connect it to intrinsic motivation
 - Added page about music and mental health (connected to transfer)
