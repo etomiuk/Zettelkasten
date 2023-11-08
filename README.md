@@ -1,6 +1,10 @@
 # Modification history
 
 ## Week 8
+### November 7
+- Added types of teaching under social
+- Added page on apprenticeship nested under experiences --> social 
+
 ### November 3
 - Added criticism section under challenges
     - Moved paragraph on social+self-efficacy there

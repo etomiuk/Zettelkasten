@@ -70,13 +70,13 @@ audio{
 
 /*taken from W3Schools*/
 /* Navbar container */
+/*
 .navbar {
     overflow: hidden;
     background-color: #7C99AC;
     font-family: "Bitter", serif;
   }
   
-  /* Links inside the navbar */
   .navbar a {
     float: left;
     font-size: 16px;
@@ -87,13 +87,11 @@ audio{
     
   }
   
-  /* The dropdown container */
   .dropdown {
     float: left;
     overflow: hidden;
   }
   
-  /* Dropdown button */
   .dropdown .dropbtn {
     font-size: 16px;
     border: none;
@@ -101,16 +99,14 @@ audio{
     color: #D3DEDC;
     padding: 14px 16px;
     background-color: inherit;
-    font-family: inherit; /* Important for vertical align on mobile phones */
-    margin: 0; /* Important for vertical align on mobile phones */
+    font-family: inherit; 
+    margin: 0; 
   }
   
-  /* Add a background color to navbar links on hover */
   .navbar a:hover, .dropdown:hover .dropbtn {
     background-color: #92A9BD;
   }
   
-  /* Dropdown content (hidden by default) */
   .dropdown-content {
     display: none;
     position: absolute;
@@ -120,7 +116,6 @@ audio{
     z-index: 1;
   }
   
-  /* Links inside the dropdown */
   .dropdown-content a {
     float: none;
     color: black;
@@ -130,13 +125,80 @@ audio{
     text-align: left;
   }
   
-  /* Add a grey background color to dropdown links on hover */
   .dropdown-content a:hover {
     background-color: #ddd;
   }
   
-  /* Show the dropdown menu on hover */
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
+*/
+
+.navbar { /*consider a fixed position for navbar*/
+  background-color: #7C99AC; /*changes background color of the section reserved for navbar*/
+  font-family: "Bitter", serif; /*changes text font of the section reserved for navbar*/
+}
+
+.navbar ul {
+  list-style-type: none; /*puts no bullet points for list items*/
+  margin: 0;
+  padding: 0;
+}
+
+.navbar li {
+  display: inline-block;
+  position: relative;
+}
+
+.navbar li:hover{
+  background-color: #FFEFEF; /*color of the first level of nested links and below*/
+}
+
+.navbar a {
+  display: block;
+  color: white; /*changes the color of the text in top level of navbar and below*/
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none; /*removes underline*/
+}
+
+.navbar a:hover{ /*changes hover color for all links*/
+  color: #7C99AC;
+}
+
+.navbar ul ul { /*first level of nestedness*/
+  display: none;
+  position: absolute;
+  background-color: #92A9BD; /*color of the first level of nested links and below*/
+  min-width: 200px;
+}
+
+.navbar ul ul ul { /*second level of nestedness*/
+  display: none;
+  position: absolute;
+  background-color: #9eb5ca; /*color of the first level of nested links and below*/
+  min-width: 200px;
+}
+
+
+.navbar ul li ul li {
+  display: block;
+}
+
+
+.navbar ul li ul li a {
+  padding: 12px 16px;
+}
+
+
+.navbar ul li:hover > ul {
+  display: block;
+}
+
+.navbar ul ul li:hover > ul {
+  display: block;
+  left: 100%;
+  top: 0;
+}
 
