@@ -1,6 +1,10 @@
 # Modification history
 
 ## Week 8
+### November 8
+- Fixed navbar to make it more user-friendly and nested (added icons)
+- Deleted goals section and included master vs performance goals under why compose --> develop skills
+- Moved expertise to challenges section because challeges relate to the difficulties we face as novices turn into experts
 ### November 7
 - Added types of teaching under social
 - Added page on apprenticeship nested under experiences --> social 

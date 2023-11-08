@@ -137,7 +137,7 @@ audio{
 
 .navbar { /*consider a fixed position for navbar*/
   background-color: #7C99AC; /*changes background color of the section reserved for navbar*/
-  font-family: "Bitter", serif; /*changes text font of the section reserved for navbar*/
+  font-family: "Bitter", serif; /*changes text font of the section reserved for navbar*/ 
 }
 
 .navbar ul {

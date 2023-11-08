@@ -5,3 +5,6 @@ Stylistic things
 - make sheet music appear more natural with the background
 - change color when hovering over hyperlinks
 - horizontal list for list like items intead of being all veritcal --> put in a table?
+- Related links (put subtopics at the bottom of the page?)
+- convert audios+pics to videos --> embed musescore page if possible. 
+    - for the attention last example, is there a way to play it 4 times and make the notes show up on each part individually?
