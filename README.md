@@ -1,4 +1,9 @@
 # Modification history
+## Week 9
+### November 11
+- Added part about chatGPT and creativity under challenges --> writer's block
+- Added AI and identity under motivation --> indentity
+- Added connectivism to learning theories section
 
 ## Week 8
 ### November 8
@@ -8,7 +13,6 @@
 ### November 7
 - Added types of teaching under social
 - Added page on apprenticeship nested under experiences --> social 
-
 ### November 3
 - Added criticism section under challenges
     - Moved paragraph on social+self-efficacy there
