@@ -1,5 +1,10 @@
 # Modification history
 ## Week 9
+### November 14
+- Created new section about how to start to compose
+    - Includes composition strategies
+    - Added section on tech used for composition
+- Fixed AI pictures + added videos
 ### November 11
 - Added part about chatGPT and creativity under challenges --> writer's block
 - Added AI and identity under motivation --> indentity
