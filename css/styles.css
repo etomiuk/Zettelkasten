@@ -64,6 +64,13 @@ audio{
     
 }
 
+video{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /*palette: https://colorhunt.co/palette/d3dedc92a9bd7c99acffefef */
 
 
