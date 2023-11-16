@@ -1,5 +1,11 @@
 # Modification history
+## Questions!
+1. 
+2. 
 ## Week 9
+### November 16
+- Fixes to navbar
+- Audios + images replaced by videos
 ### November 14
 - Created new section about how to start to compose
     - Includes composition strategies
