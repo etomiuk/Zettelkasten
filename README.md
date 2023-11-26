@@ -1,9 +1,15 @@
 # Modification history
 ## Questions!
-1. 
-2. 
+Really sorry that this is a LOT of questions... if this is too much to read/answer, Q2 is the one I am most worried about.
+
+1. It might not be possible to answer this without taking a look at the whole Zettel, but how is the balance between my connections to the topic and the connections back to course concepts? I feel like I have an imbalance where I focus more on my topic more than the connections between concepts (example, my page on mental health (why compose --> mental health) is basically a page where I attempt to apply concepts we learnt about transfer to composition, but it doesn't really connect to oter concepts...) *** I think you basically answered when I talked to you in class :)
+2. I know I asked a similar thing a few weeks ago, but I wanted to know whether it's a bad thing to have a topic sort of scattered across my Zettel. For instance, I have a behaviourism page (under How to learn composition --> learning by changing behaviour), but I don't go in detail about classical/operant conditioning at all (but I feel like I should). But then I have a little example of conditioning under How to start composing --> Composition strategies --> Eliciting emotion. And then my last paragraph in my motivation page (the Why even compose page) connects motivation to operant conditioning. SO it feels like someone reading my behaviourism page might feel like there is something missing because I leave out the explanation of classical vs operant, even though it is on another page, but then someone reading the emotions page might wonder what is even behaviourism in the first place. I was going to hyperlink these two pages together, but I'm just unsure about the general organization, because this happens for many topics and I don't want to be too repetitive but I don't want to lose the reader because there are too many connections!! *** also sort of answered in class 
+3. Are my entries too long? I was reading the document on MyCourses about the Zettel and the examples you provide at the bottom and they are significanty shorter, and I'm afraid mine are way too wordy... What's your impression on this?
+4. This is more of a design question, but thoughts on a "next page" button at the bottom of each page to direct a reader to the next page to read? Or is this sort of "linear" reading bad for the Zettel? I guess I organized the order of my topics in the navbar according to a natural order that would make sense to read for someone beginning to compose, but because of the connections made to other pages, it sort of disrupts this order. Another alternative can be a "related topics" section linking to similar topics to push those connections...I hope this makes sense!
+
 ## Week 9
 ### November 16
+- Don't click on "How to Start composing" - it doesn't wor (but subsections do work)
 - Fixes to navbar
 - Audios + images replaced by videos
 ### November 14
