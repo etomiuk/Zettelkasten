@@ -12,7 +12,7 @@ body {
 
 p {
     text-align: justify;
-    font-family: "Bitter", serif;
+    font-family: "Raleway", serif;
 }
 
 a{
@@ -29,13 +29,13 @@ li{
 /*headers*/
 h1 {
     text-align: center;
-    font-family: "Rock Salt", serif;
+    font-family: "Major Mono Display", serif;
     color: #7C99AC;
 
 }
 h2 {
     text-align: center;
-    font-family: "Rock Salt", serif;
+    font-family: "Short Stack", serif;
     color: #7C99AC;
 }
 h3 {
@@ -144,13 +144,15 @@ video{
 
 .navbar { /*consider a fixed position for navbar*/
   background-color: #7C99AC; /*changes background color of the section reserved for navbar*/
-  font-family: "Bitter", serif; /*changes text font of the section reserved for navbar*/ 
+  font-family: "Bitter", serif; /*changes text font of the section reserved for navbar*/
 }
+
 
 .navbar ul {
   list-style-type: none; /*puts no bullet points for list items*/
   margin: 0;
   padding: 0;
+
 }
 
 .navbar li {
