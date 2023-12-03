@@ -8,7 +8,11 @@ Really sorry that this is a LOT of questions... if this is too much to read/answ
 4. This is more of a design question, but thoughts on a "next page" button at the bottom of each page to direct a reader to the next page to read? Or is this sort of "linear" reading bad for the Zettel? I guess I organized the order of my topics in the navbar according to a natural order that would make sense to read for someone beginning to compose, but because of the connections made to other pages, it sort of disrupts this order. Another alternative can be a "related topics" section linking to similar topics to push those connections...I hope this makes sense!
 ## Week 11 - end
 ### December 2
+- Clean up composition strategies section
+  - Elaborated on what creativity really is + examples
+  - Cut down redundancies
 - Clean up tech section
+  - Add example of handwritten vs Musescore scores
 ### November 30
 - Write out the tech section and make connectios to cognitive load
 - Delete Connectivism page 
