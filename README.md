@@ -11,6 +11,7 @@ Really sorry that this is a LOT of questions... if this is too much to read/answ
 - Move ZPD to choices page to make the connection between choices and challenges
 - Clean up Choice page
 - Moved back both criticisms page onto one page
+- Reduced repetition on experience page
 ### December 7
 - Subdivided criticism into self criticism and other criticism
   - Cleaned self-criticism page
