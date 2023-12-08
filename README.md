@@ -7,6 +7,10 @@ Really sorry that this is a LOT of questions... if this is too much to read/answ
 3. Are my entries too long? I was reading the document on MyCourses about the Zettel and the examples you provide at the bottom and they are significanty shorter, and I'm afraid mine are way too wordy... What's your impression on this?
 4. This is more of a design question, but thoughts on a "next page" button at the bottom of each page to direct a reader to the next page to read? Or is this sort of "linear" reading bad for the Zettel? I guess I organized the order of my topics in the navbar according to a natural order that would make sense to read for someone beginning to compose, but because of the connections made to other pages, it sort of disrupts this order. Another alternative can be a "related topics" section linking to similar topics to push those connections...I hope this makes sense!
 ## Week 11 - end
+### December 8
+- Move ZPD to choices page to make the connection between choices and challenges
+- Clean up Choice page
+- Moved back both criticisms page onto one page
 ### December 7
 - Subdivided criticism into self criticism and other criticism
   - Cleaned self-criticism page
