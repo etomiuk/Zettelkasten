@@ -9,10 +9,14 @@ header{
   padding-top: 20px;
 }
 
-
 body {
   color: #1A120B; /* text color */
   background-color: #D3DEDC; /* background color */
+}
+
+footer {
+  padding: 15px 20% 3%;
+
 }
 
 .txt {
@@ -23,6 +27,7 @@ p {
     text-align: justify;
     font-family: "Raleway", sans-serif;
     line-height: 150%;
+    margin: 15px auto;
 }
 
 a{
@@ -32,8 +37,17 @@ a{
     color: #7C99AC;
 }
 
-li{
-    font-family: "Raleway", sans-serif;
+ul {
+    list-style: none;
+}
+
+li {
+  font-family: "Raleway", sans-serif;
+  line-height: 150%;
+}
+
+ul li ul{
+    list-style: disc ;
 }
 
 
@@ -55,15 +69,7 @@ h2 {
   font-family: "Poiret One", sans-serif;
   color: #7C99AC;
 }
-h3 {
-    text-align: center;
-    font-family: "Poiret One", sans-serif;
-    color: #92A9BD;
-}
-h4 {
-    text-align: center;
-    font-family: "Poiret One", sans-serif;
-}
+
 
 /*images*/
 img {
@@ -90,7 +96,9 @@ video{
 
 /*palette: https://colorhunt.co/palette/d3dedc92a9bd7c99acffefef */
 
-.navbar { /*consider a fixed position for navbar*/
+
+/* navbar */
+.navbar {
   background-color: #7C99AC; /*changes background color of the section reserved for navbar*/
   font-family: "Bitter", serif; /*changes text font of the section reserved for navbar*/
   margin-top: 10px auto;
@@ -131,7 +139,7 @@ video{
   display: none;
   position: absolute;
   background-color: #92A9BD; /*color of the first level of nested links and below*/
-  min-width: 200px;
+  width: 100%;
 }
 
 .navbar ul ul ul { /*second level of nestedness*/
@@ -139,13 +147,12 @@ video{
   position: absolute;
   background-color: #9eb5ca; /*color of the second level of nested links and below*/
   min-width: 200px;
+  margin-top: 0px;
 }
-
 
 .navbar ul li ul li {
   display: block;
 }
-
 
 .navbar ul li ul li a {
   padding: 12px 16px;
