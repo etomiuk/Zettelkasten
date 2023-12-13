@@ -17,7 +17,9 @@ Really sorry that this is a LOT of questions... if this is too much to read/answ
 - Make creativity mage a general skill page
   - Moved mental health there as an example + move transfer discussion there too
 - Clean up identity page
-  - deleted bit about identity because it was repetitive
+  - Deleted bit about identity because it was repetitive
+- Fix navbar
+- Update fonts and overall looks
 ### December 8
 - Move ZPD to choices page to make the connection between choices and challenges
 - Clean up Choice page
