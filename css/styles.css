@@ -44,6 +44,7 @@ ul {
 li {
   font-family: "Raleway", sans-serif;
   line-height: 150%;
+  text-align: justify;
 }
 
 ul li ul{
@@ -69,29 +70,68 @@ h2 {
   font-family: "Poiret One", sans-serif;
   color: #7C99AC;
 }
+h3 {
+  font-family: "Poiret One", sans-serif;
+  color: #7C99AC;
+}
 
 
 /*images*/
 img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 20px auto;
     width: 70%;
+}
+
+.image-div{
+  display: flex;
+  justify-content: space-between; /* Adjust as needed */
+}
+.image-div .image1{
+  width: 47%;
+}
+
+.image-div .image2{
+  width: 47%;
 }
 
 /*audio*/
 audio{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    
+    margin: 20px auto;
 }
 
 video{
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  margin: 20px auto;
+  width: 90%;
+  
+}
+
+.video-div{
+  display: flex;
+  justify-content: space-between; /* Adjust as needed */
+  margin: 10px; /* Adjust the margin to add space between videos */
+}
+
+.video-div .video1{
+  margin-right: 20px;
+  width: 47%;
+}
+
+.video-div .video2{
+  margin-left: 20px;
+  width: 47%;
+}
+
+.text-video-div{
+  display: flex;
+  justify-content: space-between; /* Adjust as needed */
+}
+
+.text-video-div video{
+  padding-left: 25px;
+  width: 45%;
 }
 
 /*palette: https://colorhunt.co/palette/d3dedc92a9bd7c99acffefef */
