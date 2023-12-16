@@ -1,7 +1,8 @@
 # Modification history
 ## Week 11 - end
 ### December 15
-- Readd part about goals under increase motivation
+- Final touches for consistency
+- Read part about goals under increase motivation
 - Expand on functional fixedness under creativity challenges
 ### December 13
 - Fix links, navbar, typos
