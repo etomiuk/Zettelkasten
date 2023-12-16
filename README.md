@@ -1,3 +1,6 @@
+If possible, I recommend viewing the website on a large screen because if not the navbar might appear weird and might be hard to click on some of the links. 
+
+I also apologize if this is really long to grade...
 # Modification history
 ## Week 11 - end
 ### December 15
