@@ -1,6 +1,7 @@
-If possible, I recommend viewing the website on a large screen because if not the navbar might appear weird and might be hard to click on some of the links. 
+# Zettelkasten website
+This website was created as part of a course project at McGill University for EDPE355 (Cognition & Education). In this project, I explored and connected course concepts about how we learn through the lens of one my my passions, classical music composition. In this sense, this website is also a source of knowledge for someone who is interested in learning how to compose for the first time. 
 
-I also apologize if this is really long to grade...
+
 # Modification history
 ## Week 11 - end
 ### December 15
